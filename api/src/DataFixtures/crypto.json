@@ -1,0 +1,2327 @@
+[
+    {
+        "symbol": "BTCUSDT",
+        "baseAsset": "BTC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ETHUSDT",
+        "baseAsset": "ETH",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BNBUSDT",
+        "baseAsset": "BNB",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BCCUSDT",
+        "baseAsset": "BCC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "NEOUSDT",
+        "baseAsset": "NEO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LTCUSDT",
+        "baseAsset": "LTC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "QTUMUSDT",
+        "baseAsset": "QTUM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ADAUSDT",
+        "baseAsset": "ADA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XRPUSDT",
+        "baseAsset": "XRP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "EOSUSDT",
+        "baseAsset": "EOS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TUSDUSDT",
+        "baseAsset": "TUSD",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "IOTAUSDT",
+        "baseAsset": "IOTA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XLMUSDT",
+        "baseAsset": "XLM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ONTUSDT",
+        "baseAsset": "ONT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TRXUSDT",
+        "baseAsset": "TRX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ETCUSDT",
+        "baseAsset": "ETC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ICXUSDT",
+        "baseAsset": "ICX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "VENUSDT",
+        "baseAsset": "VEN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "NULSUSDT",
+        "baseAsset": "NULS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "VETUSDT",
+        "baseAsset": "VET",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "PAXUSDT",
+        "baseAsset": "PAX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BCHABCUSDT",
+        "baseAsset": "BCHABC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BCHSVUSDT",
+        "baseAsset": "BCHSV",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "USDCUSDT",
+        "baseAsset": "USDC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LINKUSDT",
+        "baseAsset": "LINK",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "WAVESUSDT",
+        "baseAsset": "WAVES",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BTTUSDT",
+        "baseAsset": "BTT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "USDSUSDT",
+        "baseAsset": "USDS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ONGUSDT",
+        "baseAsset": "ONG",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "HOTUSDT",
+        "baseAsset": "HOT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ZILUSDT",
+        "baseAsset": "ZIL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ZRXUSDT",
+        "baseAsset": "ZRX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FETUSDT",
+        "baseAsset": "FET",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BATUSDT",
+        "baseAsset": "BAT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XMRUSDT",
+        "baseAsset": "XMR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ZECUSDT",
+        "baseAsset": "ZEC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "IOSTUSDT",
+        "baseAsset": "IOST",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CELRUSDT",
+        "baseAsset": "CELR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DASHUSDT",
+        "baseAsset": "DASH",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "NANOUSDT",
+        "baseAsset": "NANO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "OMGUSDT",
+        "baseAsset": "OMG",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "THETAUSDT",
+        "baseAsset": "THETA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ENJUSDT",
+        "baseAsset": "ENJ",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MITHUSDT",
+        "baseAsset": "MITH",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MATICUSDT",
+        "baseAsset": "MATIC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ATOMUSDT",
+        "baseAsset": "ATOM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TFUELUSDT",
+        "baseAsset": "TFUEL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ONEUSDT",
+        "baseAsset": "ONE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FTMUSDT",
+        "baseAsset": "FTM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "baseAsset": "ALGO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "USDSBUSDT",
+        "baseAsset": "USDSB",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GTOUSDT",
+        "baseAsset": "GTO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ERDUSDT",
+        "baseAsset": "ERD",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DOGEUSDT",
+        "baseAsset": "DOGE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DUSKUSDT",
+        "baseAsset": "DUSK",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ANKRUSDT",
+        "baseAsset": "ANKR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "WINUSDT",
+        "baseAsset": "WIN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "COSUSDT",
+        "baseAsset": "COS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "NPXSUSDT",
+        "baseAsset": "NPXS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "COCOSUSDT",
+        "baseAsset": "COCOS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MTLUSDT",
+        "baseAsset": "MTL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TOMOUSDT",
+        "baseAsset": "TOMO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "PERLUSDT",
+        "baseAsset": "PERL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DENTUSDT",
+        "baseAsset": "DENT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MFTUSDT",
+        "baseAsset": "MFT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "KEYUSDT",
+        "baseAsset": "KEY",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "STORMUSDT",
+        "baseAsset": "STORM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DOCKUSDT",
+        "baseAsset": "DOCK",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "WANUSDT",
+        "baseAsset": "WAN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FUNUSDT",
+        "baseAsset": "FUN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CVCUSDT",
+        "baseAsset": "CVC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CHZUSDT",
+        "baseAsset": "CHZ",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BANDUSDT",
+        "baseAsset": "BAND",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BUSDUSDT",
+        "baseAsset": "BUSD",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BEAMUSDT",
+        "baseAsset": "BEAM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XTZUSDT",
+        "baseAsset": "XTZ",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RENUSDT",
+        "baseAsset": "REN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RVNUSDT",
+        "baseAsset": "RVN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "HCUSDT",
+        "baseAsset": "HC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "HBARUSDT",
+        "baseAsset": "HBAR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "NKNUSDT",
+        "baseAsset": "NKN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "STXUSDT",
+        "baseAsset": "STX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "KAVAUSDT",
+        "baseAsset": "KAVA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ARPAUSDT",
+        "baseAsset": "ARPA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "IOTXUSDT",
+        "baseAsset": "IOTX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RLCUSDT",
+        "baseAsset": "RLC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MCOUSDT",
+        "baseAsset": "MCO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CTXCUSDT",
+        "baseAsset": "CTXC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BCHUSDT",
+        "baseAsset": "BCH",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TROYUSDT",
+        "baseAsset": "TROY",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "VITEUSDT",
+        "baseAsset": "VITE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FTTUSDT",
+        "baseAsset": "FTT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BTCEUR",
+        "baseAsset": "BTC",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "ETHEUR",
+        "baseAsset": "ETH",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "BNBEUR",
+        "baseAsset": "BNB",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "XRPEUR",
+        "baseAsset": "XRP",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "EURUSDT",
+        "baseAsset": "EUR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "OGNUSDT",
+        "baseAsset": "OGN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DREPUSDT",
+        "baseAsset": "DREP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BULLUSDT",
+        "baseAsset": "BULL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BEARUSDT",
+        "baseAsset": "BEAR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ETHBULLUSDT",
+        "baseAsset": "ETHBULL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ETHBEARUSDT",
+        "baseAsset": "ETHBEAR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TCTUSDT",
+        "baseAsset": "TCT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "WRXUSDT",
+        "baseAsset": "WRX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BTSUSDT",
+        "baseAsset": "BTS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LSKUSDT",
+        "baseAsset": "LSK",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BNTUSDT",
+        "baseAsset": "BNT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LTOUSDT",
+        "baseAsset": "LTO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "EOSBULLUSDT",
+        "baseAsset": "EOSBULL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "EOSBEARUSDT",
+        "baseAsset": "EOSBEAR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XRPBULLUSDT",
+        "baseAsset": "XRPBULL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XRPBEARUSDT",
+        "baseAsset": "XRPBEAR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "STRATUSDT",
+        "baseAsset": "STRAT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AIONUSDT",
+        "baseAsset": "AION",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MBLUSDT",
+        "baseAsset": "MBL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "COTIUSDT",
+        "baseAsset": "COTI",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BNBBULLUSDT",
+        "baseAsset": "BNBBULL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BNBBEARUSDT",
+        "baseAsset": "BNBBEAR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "STPTUSDT",
+        "baseAsset": "STPT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "WTCUSDT",
+        "baseAsset": "WTC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DATAUSDT",
+        "baseAsset": "DATA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XZCUSDT",
+        "baseAsset": "XZC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SOLUSDT",
+        "baseAsset": "SOL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CTSIUSDT",
+        "baseAsset": "CTSI",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "HIVEUSDT",
+        "baseAsset": "HIVE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CHRUSDT",
+        "baseAsset": "CHR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BTCUPUSDT",
+        "baseAsset": "BTCUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BTCDOWNUSDT",
+        "baseAsset": "BTCDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GXSUSDT",
+        "baseAsset": "GXS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ARDRUSDT",
+        "baseAsset": "ARDR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LENDUSDT",
+        "baseAsset": "LEND",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MDTUSDT",
+        "baseAsset": "MDT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "STMXUSDT",
+        "baseAsset": "STMX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "KNCUSDT",
+        "baseAsset": "KNC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "REPUSDT",
+        "baseAsset": "REP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LRCUSDT",
+        "baseAsset": "LRC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "PNTUSDT",
+        "baseAsset": "PNT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "COMPUSDT",
+        "baseAsset": "COMP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BKRWUSDT",
+        "baseAsset": "BKRW",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SCUSDT",
+        "baseAsset": "SC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ZENUSDT",
+        "baseAsset": "ZEN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SNXUSDT",
+        "baseAsset": "SNX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ETHUPUSDT",
+        "baseAsset": "ETHUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ETHDOWNUSDT",
+        "baseAsset": "ETHDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ADAUPUSDT",
+        "baseAsset": "ADAUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ADADOWNUSDT",
+        "baseAsset": "ADADOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LINKUPUSDT",
+        "baseAsset": "LINKUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LINKDOWNUSDT",
+        "baseAsset": "LINKDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "VTHOUSDT",
+        "baseAsset": "VTHO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DGBUSDT",
+        "baseAsset": "DGB",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GBPUSDT",
+        "baseAsset": "GBP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SXPUSDT",
+        "baseAsset": "SXP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MKRUSDT",
+        "baseAsset": "MKR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DAIUSDT",
+        "baseAsset": "DAI",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DCRUSDT",
+        "baseAsset": "DCR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "STORJUSDT",
+        "baseAsset": "STORJ",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BNBUPUSDT",
+        "baseAsset": "BNBUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BNBDOWNUSDT",
+        "baseAsset": "BNBDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XTZUPUSDT",
+        "baseAsset": "XTZUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XTZDOWNUSDT",
+        "baseAsset": "XTZDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MANAUSDT",
+        "baseAsset": "MANA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AUDUSDT",
+        "baseAsset": "AUD",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "YFIUSDT",
+        "baseAsset": "YFI",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BALUSDT",
+        "baseAsset": "BAL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BLZUSDT",
+        "baseAsset": "BLZ",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "IRISUSDT",
+        "baseAsset": "IRIS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "KMDUSDT",
+        "baseAsset": "KMD",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "JSTUSDT",
+        "baseAsset": "JST",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SRMUSDT",
+        "baseAsset": "SRM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ANTUSDT",
+        "baseAsset": "ANT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CRVUSDT",
+        "baseAsset": "CRV",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SANDUSDT",
+        "baseAsset": "SAND",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "OCEANUSDT",
+        "baseAsset": "OCEAN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "NMRUSDT",
+        "baseAsset": "NMR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DOTUSDT",
+        "baseAsset": "DOT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LUNAUSDT",
+        "baseAsset": "LUNA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RSRUSDT",
+        "baseAsset": "RSR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "PAXGUSDT",
+        "baseAsset": "PAXG",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "WNXMUSDT",
+        "baseAsset": "WNXM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TRBUSDT",
+        "baseAsset": "TRB",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BZRXUSDT",
+        "baseAsset": "BZRX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SUSHIUSDT",
+        "baseAsset": "SUSHI",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "YFIIUSDT",
+        "baseAsset": "YFII",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "KSMUSDT",
+        "baseAsset": "KSM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "EGLDUSDT",
+        "baseAsset": "EGLD",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DIAUSDT",
+        "baseAsset": "DIA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RUNEUSDT",
+        "baseAsset": "RUNE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FIOUSDT",
+        "baseAsset": "FIO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "UMAUSDT",
+        "baseAsset": "UMA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "EOSUPUSDT",
+        "baseAsset": "EOSUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "EOSDOWNUSDT",
+        "baseAsset": "EOSDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TRXUPUSDT",
+        "baseAsset": "TRXUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TRXDOWNUSDT",
+        "baseAsset": "TRXDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XRPUPUSDT",
+        "baseAsset": "XRPUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XRPDOWNUSDT",
+        "baseAsset": "XRPDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DOTUPUSDT",
+        "baseAsset": "DOTUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DOTDOWNUSDT",
+        "baseAsset": "DOTDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BELUSDT",
+        "baseAsset": "BEL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "WINGUSDT",
+        "baseAsset": "WING",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LTCUPUSDT",
+        "baseAsset": "LTCUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LTCDOWNUSDT",
+        "baseAsset": "LTCDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SXPEUR",
+        "baseAsset": "SXP",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "UNIUSDT",
+        "baseAsset": "UNI",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "NBSUSDT",
+        "baseAsset": "NBS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "OXTUSDT",
+        "baseAsset": "OXT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SUNUSDT",
+        "baseAsset": "SUN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AVAXUSDT",
+        "baseAsset": "AVAX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "HNTUSDT",
+        "baseAsset": "HNT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FLMUSDT",
+        "baseAsset": "FLM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "UNIUPUSDT",
+        "baseAsset": "UNIUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "UNIDOWNUSDT",
+        "baseAsset": "UNIDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ORNUSDT",
+        "baseAsset": "ORN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "UTKUSDT",
+        "baseAsset": "UTK",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XVSUSDT",
+        "baseAsset": "XVS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ALPHAUSDT",
+        "baseAsset": "ALPHA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AAVEUSDT",
+        "baseAsset": "AAVE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "NEARUSDT",
+        "baseAsset": "NEAR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SXPUPUSDT",
+        "baseAsset": "SXPUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SXPDOWNUSDT",
+        "baseAsset": "SXPDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FILUSDT",
+        "baseAsset": "FIL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FILUPUSDT",
+        "baseAsset": "FILUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FILDOWNUSDT",
+        "baseAsset": "FILDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "YFIUPUSDT",
+        "baseAsset": "YFIUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "YFIDOWNUSDT",
+        "baseAsset": "YFIDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "INJUSDT",
+        "baseAsset": "INJ",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LINKEUR",
+        "baseAsset": "LINK",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "AUDIOUSDT",
+        "baseAsset": "AUDIO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CTKUSDT",
+        "baseAsset": "CTK",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BCHUPUSDT",
+        "baseAsset": "BCHUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BCHDOWNUSDT",
+        "baseAsset": "BCHDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DOTEUR",
+        "baseAsset": "DOT",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "AKROUSDT",
+        "baseAsset": "AKRO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AXSUSDT",
+        "baseAsset": "AXS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "HARDUSDT",
+        "baseAsset": "HARD",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LTCEUR",
+        "baseAsset": "LTC",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "DNTUSDT",
+        "baseAsset": "DNT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ADAEUR",
+        "baseAsset": "ADA",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "STRAXUSDT",
+        "baseAsset": "STRAX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "UNFIUSDT",
+        "baseAsset": "UNFI",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ROSEUSDT",
+        "baseAsset": "ROSE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AVAUSDT",
+        "baseAsset": "AVA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XEMUSDT",
+        "baseAsset": "XEM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AAVEUPUSDT",
+        "baseAsset": "AAVEUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AAVEDOWNUSDT",
+        "baseAsset": "AAVEDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SKLUSDT",
+        "baseAsset": "SKL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BCHEUR",
+        "baseAsset": "BCH",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "YFIEUR",
+        "baseAsset": "YFI",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "SUSDUSDT",
+        "baseAsset": "SUSD",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SUSHIUPUSDT",
+        "baseAsset": "SUSHIUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SUSHIDOWNUSDT",
+        "baseAsset": "SUSHIDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XLMUPUSDT",
+        "baseAsset": "XLMUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XLMDOWNUSDT",
+        "baseAsset": "XLMDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XLMEUR",
+        "baseAsset": "XLM",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "GRTUSDT",
+        "baseAsset": "GRT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "JUVUSDT",
+        "baseAsset": "JUV",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "PSGUSDT",
+        "baseAsset": "PSG",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "1INCHUSDT",
+        "baseAsset": "1INCH",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "REEFUSDT",
+        "baseAsset": "REEF",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "OGUSDT",
+        "baseAsset": "OG",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ATMUSDT",
+        "baseAsset": "ATM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ASRUSDT",
+        "baseAsset": "ASR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CELOUSDT",
+        "baseAsset": "CELO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RIFUSDT",
+        "baseAsset": "RIF",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GRTEUR",
+        "baseAsset": "GRT",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "BTCSTUSDT",
+        "baseAsset": "BTCST",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TRUUSDT",
+        "baseAsset": "TRU",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "EOSEUR",
+        "baseAsset": "EOS",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "CKBUSDT",
+        "baseAsset": "CKB",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TWTUSDT",
+        "baseAsset": "TWT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FIROUSDT",
+        "baseAsset": "FIRO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DOGEEUR",
+        "baseAsset": "DOGE",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "LITUSDT",
+        "baseAsset": "LIT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SFPUSDT",
+        "baseAsset": "SFP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DODOUSDT",
+        "baseAsset": "DODO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CAKEUSDT",
+        "baseAsset": "CAKE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ACMUSDT",
+        "baseAsset": "ACM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BADGERUSDT",
+        "baseAsset": "BADGER",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FISUSDT",
+        "baseAsset": "FIS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "EGLDEUR",
+        "baseAsset": "EGLD",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "OMUSDT",
+        "baseAsset": "OM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "PONDUSDT",
+        "baseAsset": "POND",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DEGOUSDT",
+        "baseAsset": "DEGO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AVAXEUR",
+        "baseAsset": "AVAX",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "UNIEUR",
+        "baseAsset": "UNI",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "ALICEUSDT",
+        "baseAsset": "ALICE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CHZEUR",
+        "baseAsset": "CHZ",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "LINAUSDT",
+        "baseAsset": "LINA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ENJEUR",
+        "baseAsset": "ENJ",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "MATICEUR",
+        "baseAsset": "MATIC",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "PERPUSDT",
+        "baseAsset": "PERP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RAMPUSDT",
+        "baseAsset": "RAMP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SUPERUSDT",
+        "baseAsset": "SUPER",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CFXUSDT",
+        "baseAsset": "CFX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LUNAEUR",
+        "baseAsset": "LUNA",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "THETAEUR",
+        "baseAsset": "THETA",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "EPSUSDT",
+        "baseAsset": "EPS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AUTOUSDT",
+        "baseAsset": "AUTO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TKOUSDT",
+        "baseAsset": "TKO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "PUNDIXUSDT",
+        "baseAsset": "PUNDIX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BTTEUR",
+        "baseAsset": "BTT",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "HOTEUR",
+        "baseAsset": "HOT",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "WINEUR",
+        "baseAsset": "WIN",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "TLMUSDT",
+        "baseAsset": "TLM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "1INCHUPUSDT",
+        "baseAsset": "1INCHUP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "1INCHDOWNUSDT",
+        "baseAsset": "1INCHDOWN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BTGUSDT",
+        "baseAsset": "BTG",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "VETEUR",
+        "baseAsset": "VET",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "MIRUSDT",
+        "baseAsset": "MIR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BARUSDT",
+        "baseAsset": "BAR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FORTHUSDT",
+        "baseAsset": "FORTH",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "WRXEUR",
+        "baseAsset": "WRX",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "BAKEUSDT",
+        "baseAsset": "BAKE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BURGERUSDT",
+        "baseAsset": "BURGER",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SLPUSDT",
+        "baseAsset": "SLP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TRXEUR",
+        "baseAsset": "TRX",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "SHIBUSDT",
+        "baseAsset": "SHIB",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ICPUSDT",
+        "baseAsset": "ICP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SHIBEUR",
+        "baseAsset": "SHIB",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "ETCEUR",
+        "baseAsset": "ETC",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "ARUSDT",
+        "baseAsset": "AR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "POLSUSDT",
+        "baseAsset": "POLS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MDXUSDT",
+        "baseAsset": "MDX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MASKUSDT",
+        "baseAsset": "MASK",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LPTUSDT",
+        "baseAsset": "LPT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SOLEUR",
+        "baseAsset": "SOL",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "ICPEUR",
+        "baseAsset": "ICP",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "NUUSDT",
+        "baseAsset": "NU",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XVGUSDT",
+        "baseAsset": "XVG",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ATAUSDT",
+        "baseAsset": "ATA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GTCUSDT",
+        "baseAsset": "GTC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TORNUSDT",
+        "baseAsset": "TORN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "KEEPUSDT",
+        "baseAsset": "KEEP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ERNUSDT",
+        "baseAsset": "ERN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "KLAYUSDT",
+        "baseAsset": "KLAY",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RUNEEUR",
+        "baseAsset": "RUNE",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "PHAUSDT",
+        "baseAsset": "PHA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BONDUSDT",
+        "baseAsset": "BOND",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MLNUSDT",
+        "baseAsset": "MLN",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DEXEUSDT",
+        "baseAsset": "DEXE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "C98USDT",
+        "baseAsset": "C98",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CLVUSDT",
+        "baseAsset": "CLV",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "QNTUSDT",
+        "baseAsset": "QNT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FLOWUSDT",
+        "baseAsset": "FLOW",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TVKUSDT",
+        "baseAsset": "TVK",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MINAUSDT",
+        "baseAsset": "MINA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RAYUSDT",
+        "baseAsset": "RAY",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FARMUSDT",
+        "baseAsset": "FARM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ALPACAUSDT",
+        "baseAsset": "ALPACA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "QUICKUSDT",
+        "baseAsset": "QUICK",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MBOXUSDT",
+        "baseAsset": "MBOX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FORUSDT",
+        "baseAsset": "FOR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "REQUSDT",
+        "baseAsset": "REQ",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GHSTUSDT",
+        "baseAsset": "GHST",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "WAXPUSDT",
+        "baseAsset": "WAXP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TRIBEUSDT",
+        "baseAsset": "TRIBE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GNOUSDT",
+        "baseAsset": "GNO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XECUSDT",
+        "baseAsset": "XEC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ELFUSDT",
+        "baseAsset": "ELF",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DYDXUSDT",
+        "baseAsset": "DYDX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "POLYUSDT",
+        "baseAsset": "POLY",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "IDEXUSDT",
+        "baseAsset": "IDEX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "VIDTUSDT",
+        "baseAsset": "VIDT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "USDPUSDT",
+        "baseAsset": "USDP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GALAUSDT",
+        "baseAsset": "GALA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ILVUSDT",
+        "baseAsset": "ILV",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "YGGUSDT",
+        "baseAsset": "YGG",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SYSUSDT",
+        "baseAsset": "SYS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DFUSDT",
+        "baseAsset": "DF",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FIDAUSDT",
+        "baseAsset": "FIDA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FRONTUSDT",
+        "baseAsset": "FRONT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CVPUSDT",
+        "baseAsset": "CVP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AGLDUSDT",
+        "baseAsset": "AGLD",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RADUSDT",
+        "baseAsset": "RAD",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BETAUSDT",
+        "baseAsset": "BETA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RAREUSDT",
+        "baseAsset": "RARE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LAZIOEUR",
+        "baseAsset": "LAZIO",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "LAZIOUSDT",
+        "baseAsset": "LAZIO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CHESSUSDT",
+        "baseAsset": "CHESS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ADXUSDT",
+        "baseAsset": "ADX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AUCTIONUSDT",
+        "baseAsset": "AUCTION",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DARUSDT",
+        "baseAsset": "DAR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BNXUSDT",
+        "baseAsset": "BNX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RGTUSDT",
+        "baseAsset": "RGT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MOVRUSDT",
+        "baseAsset": "MOVR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CITYUSDT",
+        "baseAsset": "CITY",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ENSUSDT",
+        "baseAsset": "ENS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "KP3RUSDT",
+        "baseAsset": "KP3R",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "QIUSDT",
+        "baseAsset": "QI",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "PORTOUSDT",
+        "baseAsset": "PORTO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "PORTOEUR",
+        "baseAsset": "PORTO",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "POWRUSDT",
+        "baseAsset": "POWR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "VGXUSDT",
+        "baseAsset": "VGX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "JASMYUSDT",
+        "baseAsset": "JASMY",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "AMPUSDT",
+        "baseAsset": "AMP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "PLAUSDT",
+        "baseAsset": "PLA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "PYRUSDT",
+        "baseAsset": "PYR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "RNDRUSDT",
+        "baseAsset": "RNDR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ALCXUSDT",
+        "baseAsset": "ALCX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SANTOSUSDT",
+        "baseAsset": "SANTOS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "MCUSDT",
+        "baseAsset": "MC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ANYUSDT",
+        "baseAsset": "ANY",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BICOUSDT",
+        "baseAsset": "BICO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FLUXUSDT",
+        "baseAsset": "FLUX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FXSUSDT",
+        "baseAsset": "FXS",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "VOXELUSDT",
+        "baseAsset": "VOXEL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "HIGHUSDT",
+        "baseAsset": "HIGH",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "CVXUSDT",
+        "baseAsset": "CVX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "PEOPLEUSDT",
+        "baseAsset": "PEOPLE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "OOKIUSDT",
+        "baseAsset": "OOKI",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SPELLUSDT",
+        "baseAsset": "SPELL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "USTUSDT",
+        "baseAsset": "UST",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "JOEUSDT",
+        "baseAsset": "JOE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ACHUSDT",
+        "baseAsset": "ACH",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "IMXUSDT",
+        "baseAsset": "IMX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GLMRUSDT",
+        "baseAsset": "GLMR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LOKAUSDT",
+        "baseAsset": "LOKA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "SCRTUSDT",
+        "baseAsset": "SCRT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "API3USDT",
+        "baseAsset": "API3",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BTTCUSDT",
+        "baseAsset": "BTTC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ACAUSDT",
+        "baseAsset": "ACA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ANCUSDT",
+        "baseAsset": "ANC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "XNOUSDT",
+        "baseAsset": "XNO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "WOOUSDT",
+        "baseAsset": "WOO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ALPINEEUR",
+        "baseAsset": "ALPINE",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "ALPINEUSDT",
+        "baseAsset": "ALPINE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "TUSDT",
+        "baseAsset": "T",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ASTRUSDT",
+        "baseAsset": "ASTR",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "NBTUSDT",
+        "baseAsset": "NBT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GMTUSDT",
+        "baseAsset": "GMT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ATOMEUR",
+        "baseAsset": "ATOM",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "GALAEUR",
+        "baseAsset": "GALA",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "KDAUSDT",
+        "baseAsset": "KDA",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "APEUSDT",
+        "baseAsset": "APE",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "NEAREUR",
+        "baseAsset": "NEAR",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "WAVESEUR",
+        "baseAsset": "WAVES",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "APEEUR",
+        "baseAsset": "APE",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "BSWUSDT",
+        "baseAsset": "BSW",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "BIFIUSDT",
+        "baseAsset": "BIFI",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GMTEUR",
+        "baseAsset": "GMT",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "MULTIUSDT",
+        "baseAsset": "MULTI",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "FTMEUR",
+        "baseAsset": "FTM",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "STEEMUSDT",
+        "baseAsset": "STEEM",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "ZILEUR",
+        "baseAsset": "ZIL",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "MOBUSDT",
+        "baseAsset": "MOB",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "NEXOUSDT",
+        "baseAsset": "NEXO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "REIUSDT",
+        "baseAsset": "REI",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GALUSDT",
+        "baseAsset": "GAL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "JASMYEUR",
+        "baseAsset": "JASMY",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "GALEUR",
+        "baseAsset": "GAL",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "LDOUSDT",
+        "baseAsset": "LDO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "DAREUR",
+        "baseAsset": "DAR",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "EPXUSDT",
+        "baseAsset": "EPX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "OPUSDT",
+        "baseAsset": "OP",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "OPEUR",
+        "baseAsset": "OP",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "LEVERUSDT",
+        "baseAsset": "LEVER",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "STGUSDT",
+        "baseAsset": "STG",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "LUNCUSDT",
+        "baseAsset": "LUNC",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "GMXUSDT",
+        "baseAsset": "GMX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "NEBLUSDT",
+        "baseAsset": "NEBL",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "POLYXUSDT",
+        "baseAsset": "POLYX",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "APTUSDT",
+        "baseAsset": "APT",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "APTEUR",
+        "baseAsset": "APT",
+        "quoteAsset": "EUR"
+    },
+    {
+        "symbol": "OSMOUSDT",
+        "baseAsset": "OSMO",
+        "quoteAsset": "USDT"
+    },
+    {
+        "symbol": "HFTUSDT",
+        "baseAsset": "HFT",
+        "quoteAsset": "USDT"
+    }
+]
